@@ -1,9 +1,0 @@
-{
-  "latest_version": "1.1.0",
-  "build_number": 2,
-  "release_date": "2026-03-27",
-  "url": "https://github.com/alfatih7-code/ee37/releases/download/v1.0.1/EE37.apk",
-  "is_required": false,
-  "file_size": "18.5MB",
-  "changelog": "🚀 تحديث النظام الأكاديمي الشامل (v1.1.0)\n\n• 🛠️ نظام التحديثات: تفعيل ميزة الفحص الذكي والتحميل في الخلفية.\n• 🎨 الواجهة: تحسينات Neumorphic كاملة لشاشة الإعدادات.\n• ⚙️ استقرار: معالجة تعارض IsolateNameServer لضمان استقرار التطبيق.\n• 📱 الربط: تحسين آلية فك ارتباط الأجهزة وتأمين الحسابات."
-}
